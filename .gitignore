@@ -1,0 +1,19 @@
+# MAC OS
+.DS_Store
+
+# JAVA
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+# INTELLIJ
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
