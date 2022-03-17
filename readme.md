@@ -1,0 +1,1 @@
+There are some issues running the midi programs on Mac OSX.
